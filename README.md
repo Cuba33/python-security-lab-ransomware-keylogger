@@ -15,20 +15,20 @@ Projeto prático voltado ao estudo do comportamento de malwares e técnicas de r
 
 ### 1️⃣ Monitoramento com Keylogger
 O script captura entradas do teclado em tempo real para estudo de exfiltração de dados.
-![Execução do Keylogger](projeto_cyber/1.png)
-![Captura de Dados](projeto_cyber/2.png)
+![Execução do Keylogger](image/1.png)
+![Captura de Dados](image/2.png)
 
 ---
 
 ### 2️⃣ Simulação de Ransomware (Criptografia de Dados)
 Demonstração da criptografia de arquivos em uma pasta alvo utilizando criptografia simétrica.
-![Comando de Ataque](projeto_cyber/3%20O%20SEQUESTRO.png)
-![Arquivo Criptografado](projeto_cyber/4%20O%20Sequestro.png)
+![Comando de Ataque](image/3_O_SEQUESTRO.png)
+![Arquivo Criptografado](image/4_O_Sequestro.png)
 
 ---
 
 ### 3️⃣ Recuperação e Gestão de Chaves
 Uso da chave simétrica e script de remediação para restaurar os arquivos criptografados.
-![Chave e Pasta](projeto_cyber/5%20A%20Chave.png)
-![Sucesso na Recuperação](projeto_cyber/6%20recuperacao_dados_sucesso.png)
-![Dados Originais Restaurados](projeto_cyber/7%20restauracao_arquivos_alvo.png)
+![Chave e Pasta](image/5_A_Chave.png)
+![Sucesso na Recuperação](image/6_recuperacao_dados_sucesso.png)
+![Dados Originais Restaurados](image/7_restauracao_arquivos_alvo.png)
