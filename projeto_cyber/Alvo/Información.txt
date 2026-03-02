@@ -1,0 +1,16 @@
+Nombres y Direcciones
+text
+Maria González López, Rua das Flores 145, Apto 3B, Mogi das Cruzes - SP, CEP 08780-320. Tel: (11) 98765-4321
+Datos Técnicos Ficticios
+text
+Servidor WS-SEC01: Uptime 47d 12h 34m | CPU 23% | RAM 6.2/16GB | Disk 78% usado | IPs: 192.168.1.45 / 10.0.2.15
+Logs de Sistema Aleatorios
+text
+[2026-03-01 20:40:12] sshd[2384]: Accepted password for yordan from 192.168.1.100 port 54321 ssh2
+[2026-03-01 20:41:05] kernel: [14523.456789] eth0: link up, 1000Mbps full duplex
+Credenciales de Teste (¡NO usar en prod!)
+text
+user: analista01 | pass: X9kP#m2$vQ8rT4wY6 | API Key: sk-abc123def456ghi789jkl012mno345pqr678
+Texto Lorem Ipsum Técnico
+text
+Sistema de monitoramento SIEM v3.2.1 processando 1.247 eventos/minuto. Alertas críticos: 0 | Médios: 3 | Baixos: 47. Métricas de tráfego: 2.3 Gbps inbound, 1.8 Gbps outbound. Último scan Nmap concluído em 14:32 com 0 vulnerabilidades high-risk.
