@@ -1,2 +1,24 @@
 # python-security-lab-ransomware-keylogger
 Projeto prático de Cybersecurity desenvolvido em Python. Implementação de scripts de Keylogger e Ransomware (criptografia Fernet) em ambiente controlado para estudo de vulnerabilidades, persistência e recuperação de dados.
+
+# 🛡️ Laboratório de Cybersecurity - Python
+
+Projeto prático para estudo de vulnerabilidades, focado no comportamento de malwares e recuperação de dados.
+
+## 📸 Evidências do Projeto
+
+### 1. Monitoramento com Keylogger
+O script captura entradas do teclado em tempo real para estudo de exfiltração.
+![Execução do Keylogger](projeto_cyber/1.png)
+![Captura de Dados](projeto_cyber/2.png)
+
+### 2. Ataque de Ransomware (Sequestro de Dados)
+Demonstração de criptografia de arquivos na pasta alvo.
+![Comando de Ataque](projeto_cyber/3%20O%20SEQUESTRO.png)
+![Arquivo Criptografado](projeto_cyber/4%20O%20Sequestro.png)
+
+### 3. Recuperação e Gestão de Chaves
+Uso da chave simétrica e script de remediação para restaurar o sistema.
+![Chave e Pasta](projeto_cyber/5%20A%20Chave.png)
+![Sucesso na Recuperação](projeto_cyber/6%20recuperacao_dados_sucesso.png)
+![Dados Originais Restaurados](projeto_cyber/7%20restauracao_arquivos_alvo.png)
